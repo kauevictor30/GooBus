@@ -1,6 +1,6 @@
 <!-- Banner animado ou imagem de destaque -->
 <p align="center">
-  <img src="https://github.com/kauevictor30/GooBus/blob/idv/GooBus.png?raw=true" alt="Goobus App" width="100px" heght="100px">
+  <img src="https://github.com/kauevictor30/GooBus/blob/idv/GooBus.png?raw=true" alt="Goobus App" width="500px" heght="500px">
 </p>
 
 <h1 align="center">🚌 GOOBUS</h1>
